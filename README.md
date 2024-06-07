@@ -2,11 +2,11 @@
 
 I'm Rijal Azhar Dwi Ardani, a passionate programmer specializing in data science, machine learning, and backend development.
 
-🔭 Current Focus: Data-driven projects, machine learning models, and scalable backend solutions.
-🌱 Learning: Continuously enhancing my skills in Python, SQL, and JavaScript.
-💼 Experience: Proficient in Python, PHP, JavaScript.
-🤝 Collaboration: Open to collaborating on innovative projects in data science and backend development.
-📫 Reach Me: rijalardani390@gmail.com
+- 🔭 Current Focus: Data-driven projects, machine learning models, and scalable backend solutions.
+- 🌱 Learning: Continuously enhancing my skills in Python, SQL, and JavaScript.
+- 💼 Experience: Proficient in Python, PHP, JavaScript.
+- 🤝 Collaboration: Open to collaborating on innovative projects in data science and backend development.
+- 📫 Reach Me: rijalardani390@gmail.com
 
 Let's connect and create something amazing together!
 
